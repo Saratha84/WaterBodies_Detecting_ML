@@ -2,6 +2,9 @@
 
 I'm thrilled to share my latest project where I developed a water bodies detection system using satellite imagery and machine learning, all powered by Python and Google Colab. Leveraging the power of Random Forest classifiers, I was able to accurately identify and classify water bodies in satellite images, enabling efficient environmental monitoring and management.
 
+ ![alt text](h[ttp://url/to/img.png](https://github.com/Saratha84/WaterBodies_Detecting_ML/blob/main/project_pic1.png)) 
+
+
 🔍 Project Highlights:
 
 Data Source: Utilized high-resolution satellite images for detailed analysis.
